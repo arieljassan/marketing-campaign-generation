@@ -5,6 +5,7 @@ This is a tutorial for helping automate the generation of marketing campaigns us
 It is presente in two Python notebooks that can be accessed via Google Colab.
 
 [Lab 1:_Creating_a_data_store_in_Enterprise_Search](Lab_Creating_a_data_store_in_Enterprise_Search.ipynb)
+
 [Lab_2: Automate_marketing_campaign_generation](./Lab_Automate_marketing_campaign_generation.ipynb)
 
 ## Disclaimer
